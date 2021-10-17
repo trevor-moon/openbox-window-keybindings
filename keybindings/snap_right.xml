@@ -1,0 +1,9 @@
+<keybind key="C-W-6">
+    <action name="Unmaximize"/>
+    <action name="MoveResizeTo">
+        <x>-0</x>
+        <y>0</y>
+        <height>100%</height>
+        <width>50%</width>
+    </action>
+</keybind>
