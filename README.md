@@ -1,4 +1,4 @@
-# openbox-window-snapping
+# openbox-window-keybindings
 
 Keybindings for Openbox window snapping and tiling.
 
