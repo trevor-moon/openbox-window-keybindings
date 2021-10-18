@@ -1,9 +1,10 @@
-<keybind key="C-W-4">
+<!-- Snap window to top half -->
+<keybind key="C-W-8">
     <action name="Unmaximize"/>
     <action name="MoveResizeTo">
         <x>0</x>
         <y>0</y>
-        <height>100%</height>
-        <width>50%</width>
+        <height>50%</height>
+        <width>100%</width>
     </action>
 </keybind>

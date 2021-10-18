@@ -4,8 +4,8 @@ Keybindings for Openbox window snapping and tiling.
 
 ## Quickstart
 
-1. Find a window snapping feature in [keybindings](keybinding-snippets).
-2. Copy the [keybinding](keybinding-snippets) snippet(s) in the openbox config file located at `~/.config/openbox/`. The snippet should go in the `<keyboard>` section of the file.
+1. Locate specific keybinding snippets from [keybinding-snippets](keybinding-snippets) or all avaiable keybindings in [keybindings.xml](keybindings.xml).
+2. Copy the keybinding(s) to the openbox config file `<keyboard>` section located at `~/.config/openbox/`.
 
    - lxqt-rc.xml
    - rc.xml
