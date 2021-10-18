@@ -1,12 +1,4 @@
-<keybind key="C-W-4">
-    <action name="Unmaximize"/>
-    <action name="MoveResizeTo">
-        <x>0</x>
-        <y>0</y>
-        <height>100%</height>
-        <width>50%</width>
-    </action>
-</keybind>
+<!-- Snap to bottom right -->
 <keybind key="C-W-3">
     <action name="Unmaximize"/>
     <action name="MoveResizeTo">
@@ -16,6 +8,17 @@
         <width>50%</width>
     </action>
 </keybind>
+<!-- Snap to left half -->
+<keybind key="C-W-4">
+    <action name="Unmaximize"/>
+    <action name="MoveResizeTo">
+        <x>0</x>
+        <y>0</y>
+        <height>100%</height>
+        <width>50%</width>
+    </action>
+</keybind>
+<!-- Snap window to top half -->
 <keybind key="C-W-8">
     <action name="Unmaximize"/>
     <action name="MoveResizeTo">
@@ -25,6 +28,7 @@
         <width>100%</width>
     </action>
 </keybind>
+<!-- Snap to top left -->
 <keybind key="C-W-7">
     <action name="Unmaximize"/>
     <action name="MoveResizeTo">
@@ -34,24 +38,7 @@
         <width>50%</width>
     </action>
 </keybind>
-<keybind key="C-W-6">
-    <action name="Unmaximize"/>
-    <action name="MoveResizeTo">
-        <x>-0</x>
-        <y>0</y>
-        <height>100%</height>
-        <width>50%</width>
-    </action>
-</keybind>
-<keybind key="C-W-2">
-    <action name="Unmaximize"/>
-    <action name="MoveResizeTo">
-        <x>0</x>
-        <y>-0</y>
-        <height>50%</height>
-        <width>100%</width>
-    </action>
-</keybind>
+<!-- Snap to center -->
 <keybind key="C-W-5">
     <action name="Unmaximize"/>
     <action name="MoveResizeTo">
@@ -61,6 +48,7 @@
         <width>50%</width>
     </action>
 </keybind>
+<!-- Snap to bottom left -->
 <keybind key="C-W-1">
     <action name="Unmaximize"/>
     <action name="MoveResizeTo">
@@ -70,6 +58,27 @@
         <width>50%</width>
     </action>
 </keybind>
+<!-- Snap to bottom half -->
+<keybind key="C-W-2">
+    <action name="Unmaximize"/>
+    <action name="MoveResizeTo">
+        <x>0</x>
+        <y>-0</y>
+        <height>50%</height>
+        <width>100%</width>
+    </action>
+</keybind>
+<!-- Snap to right half -->
+<keybind key="C-W-6">
+    <action name="Unmaximize"/>
+    <action name="MoveResizeTo">
+        <x>-0</x>
+        <y>0</y>
+        <height>100%</height>
+        <width>50%</width>
+    </action>
+</keybind>
+<!-- Snap to top right -->
 <keybind key="C-W-9">
     <action name="Unmaximize"/>
     <action name="MoveResizeTo">
@@ -79,6 +88,7 @@
         <width>50%</width>
     </action>
 </keybind>
+<!-- Toggle maximize -->
 <keybind key="C-W-0">
     <action name="ToggleMaximize" />
 </keybind>

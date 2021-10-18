@@ -1,3 +1,4 @@
+<!-- Toggle maximize -->
 <keybind key="C-W-0">
     <action name="ToggleMaximize" />
 </keybind>

@@ -1,3 +1,4 @@
+<!-- Snap to top left -->
 <keybind key="C-W-7">
     <action name="Unmaximize"/>
     <action name="MoveResizeTo">
